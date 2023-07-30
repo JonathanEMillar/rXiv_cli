@@ -27,9 +27,13 @@ You can then enter the number of a paper to open its page in your default web br
 The script requires the following Python packages:
 
 -     requests
+
 -     json
+
 -     webbrowser
+
 -     datetime
+
 -     urllib
 
 Install any missing packages before running the script.
@@ -42,11 +46,11 @@ It then allows opening the paper's page in a web browser by entering its number.
 
 #### Notes
 
-The search is limited to 3 days back due to API restrictions
+-    The search is limited to 3 days back due to API restrictions
 
-Invalid inputs will print error messages
+-    Invalid inputs will print error messages
 
-No matches found will exit the program
+-    No matches found will exit the program
 
 #### Credits
 

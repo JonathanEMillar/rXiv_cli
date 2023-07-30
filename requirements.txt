@@ -1,0 +1,6 @@
+requests==2.28.1
+json==3.5.0 
+webbrowser==3.5
+datetime==4.6
+urllib3==1.26.13
+concurrent.futures==3.2.0

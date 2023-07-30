@@ -26,15 +26,7 @@ You can then enter the number of a paper to open its page in your default web br
 
 The script requires the following Python packages:
 
--     requests
-
--     json
-
--     webbrowser
-
--     datetime
-
--     urllib
+requests, json, webbrowser, datetime, urllib
 
 Install any missing packages before running the script.
 

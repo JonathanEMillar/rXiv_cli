@@ -28,7 +28,7 @@ The script requires the following Python packages:
 
 requests, json, webbrowser, datetime, urllib
 
-Install any missing packages before running the script
+Install any missing packages before running the script:
 
 ```Shell
 pip install -r requirements.txt

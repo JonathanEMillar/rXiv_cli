@@ -31,7 +31,8 @@ requests, json, webbrowser, datetime, urllib
 Install any missing packages before running the script
 
 ```Shell
-pip install -r requirements.txtl 
+pip install -r requirements.txt
+```
 
 #### Output
 
